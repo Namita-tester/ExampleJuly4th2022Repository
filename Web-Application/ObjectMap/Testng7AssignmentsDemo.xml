@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Testing Automation">
+<test name ="Action Time end to end">
+<packages>
+<package name="com.sgtesting.anootation">
+</package>
+</packages> 
+</test>
+</suite>
